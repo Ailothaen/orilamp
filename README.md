@@ -4,9 +4,9 @@ This repository holds the Arduino code for the Ori lamp I made, alongside with s
 This lamp is a RGB one, that is powered with USB and that has buttons to change various parameters regarding the lamp (color, effect...)
 
 <p align="center">
-<img src="https://github.com/ailothaen/orilamp/blob/master/resources/1.jpg?raw=true" alt="1.jpg" width="200">
-<img src="https://github.com/ailothaen/orilamp/blob/master/resources/2.jpg?raw=true" alt="2.jpg" width="200">
-<img src="https://github.com/ailothaen/orilamp/blob/master/resources/3.jpg?raw=true" alt="3.jpg" width="200">
+<img src="https://github.com/ailothaen/orilamp/blob/main/resources/1.jpg?raw=true" alt="1.jpg" width="200">
+<img src="https://github.com/ailothaen/orilamp/blob/main/resources/2.jpg?raw=true" alt="2.jpg" width="200">
+<img src="https://github.com/ailothaen/orilamp/blob/main/resources/3.jpg?raw=true" alt="3.jpg" width="200">
 </p>
 
 For more pictures and context, [click here](https://todo.com)
@@ -31,7 +31,7 @@ Nothing really significant to tell here, just 6 wooden panels assembled together
 
 Here is the schematic diagram.
 
-![circuit.png](https://github.com/ailothaen/orilamp/blob/master/resources/circuit.png?raw=true)
+![circuit.png](https://github.com/ailothaen/orilamp/blob/main/resources/circuit.png?raw=true)
 
 (The diagram says "Arduino Nano", but it's actually an Arduino Nano Every)
 
@@ -42,7 +42,7 @@ I used 330 Ω resistors for the [pull-down](https://www.seeedstudio.com/blog/202
 
 Here is what it looks like inside (with everything soldered to a copper breadboard):
 
-![inside.jpg](https://github.com/ailothaen/orilamp/blob/master/resources/inside.jpg?raw=true)
+![inside.jpg](https://github.com/ailothaen/orilamp/blob/main/resources/inside.jpg?raw=true)
 
 
 ## Coding
@@ -59,7 +59,7 @@ There are also two other functions:
 - **S** function (Saturation), by holding **H** and pressing **L**
 - **C** function (Chance – changing speed and "chance" of effects), by holding **E** and pressing **L**
 
-![manual.jpg](https://github.com/ailothaen/orilamp/blob/master/resources/manual.png?raw=true)
+![manual.jpg](https://github.com/ailothaen/orilamp/blob/main/resources/manual.png?raw=true)
 
 These "letters" are used conventionally in the whole code.
 
