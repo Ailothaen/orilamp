@@ -9,7 +9,9 @@ This lamp is a RGB one, that is powered with USB and that has buttons to change 
 <img src="https://github.com/ailothaen/orilamp/blob/main/resources/3.jpg?raw=true" alt="3.jpg" width="200">
 </p>
 
-For more pictures and context, [click here](https://todo.com)
+For more context, [click here](https://www.reddit.com/r/OriAndTheBlindForest/comments/10ion1e/3dprinted_ori_lamp_with_controllable_rgb_led/)
+
+You can find a video of the lamp in action [here](https://i.imgur.com/1R7OT0r.mp4)
 
 This work can be decomposed in 4 parts: model, box, electronics, and coding.
 
